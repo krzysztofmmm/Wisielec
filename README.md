@@ -1,7 +1,7 @@
 # Hangman
 EN
 
-This is a game in which player must guess the word by supplying each of its letters: for each incorrect guess a part of a stick figure of a man who has been hanged is drawn.
+This is a game in which player must guess the word by supplying each of its letters, for each incorrect guess a part of a stick figure of a man who has been hanged is drawn.
 
 
 PL
